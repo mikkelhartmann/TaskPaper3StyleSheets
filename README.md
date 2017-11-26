@@ -1,2 +1,2 @@
-# darkAmber_TaskPaper_StyleSheet
-The Style Sheet I use for TaskPaper 3.
+# Style Sheets for TaskPaper 3
+The Style Sheets I use for TaskPaper 3.
